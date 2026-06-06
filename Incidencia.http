@@ -1,0 +1,7 @@
+POST http://localhost:3000/incidencia
+Content-type: application/json
+
+{
+  "tipo": "iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
